@@ -1,0 +1,15 @@
+.container{
+    width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+table{
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid;
+    padding: 10px;
+}
+.wrapper{
+    text-align: center;
+}
